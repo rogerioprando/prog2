@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-#define SIZE    10;
-#define SIZE_2  (SIZE -2);
+#define SIZE    10
+#define SIZE_2  (SIZE -2)
+
 int main()
 {
     int tamanho;
